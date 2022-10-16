@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.81a1eb6b.css",
-    "main.js": "/static/js/main.73a518f9.js",
+    "main.js": "/static/js/main.98562deb.js",
     "static/media/nodejs.svg": "/static/media/nodejs.719cb35383214b4e8258c4c7a3351da5.svg",
     "static/media/docker.svg": "/static/media/docker.8cf488ef5e5bbcac8ca404e061bf0972.svg",
     "static/media/rabbitmq.svg": "/static/media/rabbitmq.694d28b83ea5cf89cd90933e68d7e98f.svg",
@@ -13,15 +13,15 @@
     "static/media/es6.svg": "/static/media/es6.21d34f53fca90518a3ec78d58d54704d.svg",
     "static/media/jira.svg": "/static/media/jira.79401e798305efd2db7eaf75a868913b.svg",
     "static/media/git.svg": "/static/media/git.c60b7e5ae8ec2562f23fdddcab300026.svg",
+    "index.html": "/index.html",
     "static/media/mui.svg": "/static/media/mui.fd510ed8518b192069590b04e2e6348a.svg",
     "static/media/react.svg": "/static/media/react.928f956d9c8ebcffb98a8e917154a81a.svg",
-    "index.html": "/index.html",
     "static/media/npm.svg": "/static/media/npm.8888b3c12a8b04df4c7607f24b49eb81.svg",
     "main.81a1eb6b.css.map": "/static/css/main.81a1eb6b.css.map",
-    "main.73a518f9.js.map": "/static/js/main.73a518f9.js.map"
+    "main.98562deb.js.map": "/static/js/main.98562deb.js.map"
   },
   "entrypoints": [
     "static/css/main.81a1eb6b.css",
-    "static/js/main.73a518f9.js"
+    "static/js/main.98562deb.js"
   ]
 }
