@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.d22c9c5b.css",
+    "main.css": "/static/css/main.67dd1fe8.css",
     "main.js": "/static/js/main.e03973d0.js",
-    "static/media/nodejs.svg": "/static/media/nodejs.719cb35383214b4e8258c4c7a3351da5.svg",
+    "static/media/nodejs.svg": "/static/media/nodejs.9a54ea2cad6e7d76e0b9ceda3bfb4beb.svg",
     "static/media/docker.svg": "/static/media/docker.8cf488ef5e5bbcac8ca404e061bf0972.svg",
-    "static/media/rabbitmq.svg": "/static/media/rabbitmq.694d28b83ea5cf89cd90933e68d7e98f.svg",
+    "static/media/rabbitmq.svg": "/static/media/rabbitmq.893acd3bcf6f69321cfebc3fd432d85a.svg",
     "static/media/google.svg": "/static/media/google.ef647c8527c572f66d007cecee12a913.svg",
     "static/media/aws.svg": "/static/media/aws.482ae98bd199aa096dfaa67074122abb.svg",
-    "static/media/firebase.svg": "/static/media/firebase.4d1511982aab4c202664c0ab14217590.svg",
-    "static/media/graphql.svg": "/static/media/graphql.aa0e290e55708b044aacb8277f22398f.svg",
+    "static/media/firebase.svg": "/static/media/firebase.5b996929936cc75446689d521c9018a1.svg",
+    "static/media/graphql.svg": "/static/media/graphql.3f9a6fdba9aca4d171a9f057253533c8.svg",
     "static/media/pgsql.svg": "/static/media/pgsql.8c7354991e2f92b9b463bd155cc22f53.svg",
     "static/media/es6.svg": "/static/media/es6.21d34f53fca90518a3ec78d58d54704d.svg",
     "static/media/jira.svg": "/static/media/jira.79401e798305efd2db7eaf75a868913b.svg",
     "static/media/git.svg": "/static/media/git.c60b7e5ae8ec2562f23fdddcab300026.svg",
     "static/media/mui.svg": "/static/media/mui.fd510ed8518b192069590b04e2e6348a.svg",
-    "static/media/react.svg": "/static/media/react.928f956d9c8ebcffb98a8e917154a81a.svg",
+    "static/media/react.svg": "/static/media/react.3a03708e42481565259f85329d20b695.svg",
     "index.html": "/index.html",
-    "static/media/npm.svg": "/static/media/npm.8888b3c12a8b04df4c7607f24b49eb81.svg",
-    "main.d22c9c5b.css.map": "/static/css/main.d22c9c5b.css.map",
+    "static/media/npm.svg": "/static/media/npm.128a00bf35b993ec2f0c4e4600d9ff7c.svg",
+    "main.67dd1fe8.css.map": "/static/css/main.67dd1fe8.css.map",
     "main.e03973d0.js.map": "/static/js/main.e03973d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.d22c9c5b.css",
+    "static/css/main.67dd1fe8.css",
     "static/js/main.e03973d0.js"
   ]
 }
